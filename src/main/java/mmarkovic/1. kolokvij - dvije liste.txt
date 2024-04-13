@@ -1,0 +1,14 @@
+Potrebno je napraviti aplikaciju za evidenciju dječjih bolesti. 
+
+Aplikaciju omogućuje unos više djece (10). 
+
+Svako dijete ima ime, prezime, datum rođenja i listu bolesti koje je prehodao (10).
+ 
+Bolest ima naziv, simptome i prosječnu dužinu trajanja izbivanja djeteta izvan vrtića za vrijeme te bolesti(10). 
+
+Program unosi djecu dok se ne prekine unos (slovo k)(5). 
+
+Unos svih podataka se kontrolira i onemogućen je nastavak rada dok se ne unese tražena vrijednost (15). 
+
+Nakon završetka unosa aplikacija ispisuje ukupnu starost sve djece iskazanu u danima 
+te ukupan broja dana koja su sva djeca izbivala izvan vrtića zbog bolesti(20).
